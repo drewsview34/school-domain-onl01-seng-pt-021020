@@ -6,6 +6,8 @@ class School
     @roster = {}
   end
   
+  def add add_student(name, grade)
+    
+  end
+  
 end
-
-school = School.new("Bayside High School")
