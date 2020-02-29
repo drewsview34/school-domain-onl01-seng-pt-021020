@@ -11,6 +11,7 @@ class School
     roster[grade] << student_name
   end
   
-  def
-  
+  def grade
+    
+  end
 end
