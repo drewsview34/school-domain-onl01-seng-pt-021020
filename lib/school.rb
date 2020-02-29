@@ -12,6 +12,6 @@ class School
   end
   
   def grade(students_in_this_grade)
-    
+    roster[students_in_this_grade]
   end
 end
